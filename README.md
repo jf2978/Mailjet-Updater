@@ -28,3 +28,6 @@ Thus, if we wanted to update our contacts every day at midnight, our command wou
 0 0 * * * java -jar /updater.jar
 ```
 __NOTE:__ The path to your .jar file must be an _absolute_ path
+
+## Author ##
+__Jeffrey Fabian__ - [jf2978](https://github.com/jf2978/)
